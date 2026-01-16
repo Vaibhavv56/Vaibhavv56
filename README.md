@@ -1,7 +1,7 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Vaibhavv56/Vaibhavv56/main/new.jpg"
-    alt="Banner"
+    src="https://raw.githubusercontent.com/Vaibhavv56/Vaibhavv56/main/main.gif"
+    alt="Banner GIF"
     style="width:100%; max-width:100%;" />
 </p>
 
