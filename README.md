@@ -5,10 +5,31 @@
     style="width:100%; max-width:100%;" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Vaibhav Pujari</h1>
 
-<h3 align="center">I’m Vaibhav Pujari, a third-year (TY) Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune, with a strong passion for AI-ML and software development. I enjoy problem-solving and coding, especially when it involves building meaningful, real-world solutions and exploring innovative technologies. I’m constantly driven by curiosity and the desire to understand how things work under the hood, which motivates me to continuously sharpen my technical skills. I’m actively interested in open-source collaboration, as I strongly believe that learning from others and contributing to the developer community is one of the best ways to grow as an engineer. I’m always eager to learn, improve, and take on new challenges, and I’m excited about the future opportunities in the tech ecosystem. If you’d like to connect, collaborate, or build something impactful together, let’s code and grow together 🚀</h3>
+<p align="center"
+   style="
+     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+     font-size: 16px;
+     line-height: 1.8;
+     max-width: 900px;
+     margin: auto;
+     color: #c9d1d9;
+   ">
+  I’m <b>Vaibhav Pujari</b>, a <b>third-year (TY) Computer Engineering student</b> at 
+  <b>Vishwakarma Institute of Technology (VIT), Pune</b>, with a strong passion for 
+  <b>Artificial Intelligence, Machine Learning, and software development</b>. 
+  I enjoy <b>problem-solving and coding</b>, especially when it involves building 
+  meaningful, real-world solutions and exploring innovative technologies.<br/><br/>
+  Driven by curiosity and a desire to understand how things work under the hood, 
+  I constantly strive to sharpen my technical skills. I’m actively interested in 
+  <b>open-source collaboration</b>, as I strongly believe learning from others and 
+  contributing to the developer community is one of the best ways to grow as an engineer.
+  I’m always eager to learn, take on new challenges, and explore future opportunities 
+  in the tech ecosystem. If you’d like to connect, collaborate, or build something 
+  impactful together, <b>let’s code and grow together</b> 🚀
+</p>
+
 
 - 🔭 I’m currently working on [Mental Health Assistant Using AI](https://github.com/Vaibhavv56/mental-health-assistant.git)
 
