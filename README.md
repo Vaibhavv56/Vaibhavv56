@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<username>/<repo-name>/main/while_try_code.jpg](https://github.com/Vaibhavv56/Vaibhavv56/blob/main/photu.jpg" 
+       alt="while try loop" 
+       width="600" />
+</p>
 <h1 align="center">Hi 👋, I'm Vaibhav Pujari</h1>
 <h3 align="center">I’m Vaibhav Pujari, a third-year (TY) Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune, with a strong passion for AI-ML and software development. I enjoy problem-solving and coding, especially when it involves building meaningful, real-world solutions and exploring innovative technologies. I’m constantly driven by curiosity and the desire to understand how things work under the hood, which motivates me to continuously sharpen my technical skills. I’m actively interested in open-source collaboration, as I strongly believe that learning from others and contributing to the developer community is one of the best ways to grow as an engineer. I’m always eager to learn, improve, and take on new challenges, and I’m excited about the future opportunities in the tech ecosystem. If you’d like to connect, collaborate, or build something impactful together, let’s code and grow together 🚀</h3>
 
