@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Vaibhavv56/Vaibhavv56/main/photu.jpg"
+    src="https://raw.githubusercontent.com/Vaibhavv56/Vaibhavv56/main/new.jpg"
     alt="Banner"
     style="width:100%; max-width:100%;" />
 </p>
