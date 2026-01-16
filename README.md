@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Vaibhavv56/Vaibhavv56/main/main.gif"
+    src="https://raw.githubusercontent.com/Vaibhavv56/Vaibhavv56/main/main-2.gif"
     alt="Banner GIF"
     style="width:100%; max-width:100%;" />
 </p>
