@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vaibhavv56/Vaibhavv56/main/photu.jpg"
-       alt="while try loop"
-       width="600" />
+  <img 
+    src="https://raw.githubusercontent.com/Vaibhavv56/Vaibhavv56/main/photu.jpg"
+    alt="Banner"
+    style="width:100%; max-width:100%;" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Vaibhav Pujari</h1>
 
