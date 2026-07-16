@@ -24,7 +24,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/rocket.png"/> Featured Projects
+## <img src="https://img.icons8.com/fluency/24/rocket.png" width="22"/> Featured Projects
 
 ### 🚚 Last Mile Delivery Tracker
 **React.js • Node.js • PostgreSQL • Prisma • Socket.IO**
@@ -58,7 +58,9 @@ AI-powered governance platform with:
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/maintenance.png"/> Tech Stack
+
+## <img src="https://img.icons8.com/fluency/24/maintenance.png" width="22"/> Tech Stack
+
 
 ### Languages
 
@@ -96,8 +98,7 @@ AI-powered governance platform with:
 - LLMs
 
 ---
-
-## <img src="https://img.icons8.com/fluency/24/prize.png"/> Achievements
+## <img src="https://img.icons8.com/fluency/24/prize.png" width="22"/> Achievements
 
 - 🥈 First Runner-Up — Hacksphere Hackathon (500+ Teams)
 - 🏅 IIT Bombay Aarohan Finalist (2024 & 2025)
@@ -108,7 +109,7 @@ AI-powered governance platform with:
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/conference-call.png"/> Leadership
+## <img src="https://img.icons8.com/fluency/24/conference-call.png" width="22"/> Leadership
 
 **Chairperson — IEEE SB VIT Pune**
 
@@ -135,7 +136,7 @@ Leading technical initiatives, workshops, hackathons, and community events while
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/combo-chart.png"/> GitHub Stats
+## <img src="https://img.icons8.com/fluency/24/combo-chart.png" width="22"/> GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavv56&show_icons=true&theme=github_dark"/>
