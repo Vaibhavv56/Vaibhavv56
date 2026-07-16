@@ -14,13 +14,19 @@
 
 ## <img src="https://img.icons8.com/fluency/24/about.png" width="22"/> About Me
 
-- 🎓 Final Year Computer Engineering student at **VIT Pune**
-- 🤖 Interested in **Artificial Intelligence, LLMs, NLP, RAG & Full Stack Development**
-- 💻 Strong in **Data Structures & Algorithms (800+ problems solved)**
-- 🏆 IEEE SB VIT Pune Chairperson (2025-26)
-- 📄 Published **4 IEEE/Scopus Research Papers**
-- 💡 Patent Filed: **AI Powered API Monitoring and Anomaly Detection**
-- 🌱 Currently exploring **Agentic AI Systems & Multi-Agent Workflows**
+- <img src="https://img.icons8.com/fluency/20/graduation-cap.png" width="18"/> Final Year Computer Engineering student at **VIT Pune**
+
+- <img src="https://img.icons8.com/fluency/20/artificial-intelligence.png" width="18"/> Interested in **Artificial Intelligence, LLMs, NLP, RAG & Full Stack Development**
+
+- <img src="https://img.icons8.com/fluency/20/source-code.png" width="18"/> Strong in **Data Structures & Algorithms (800+ problems solved)**
+
+- <img src="https://img.icons8.com/fluency/20/conference-call.png" width="18"/> Chairperson, **IEEE SB VIT Pune (2025–26)**
+
+- <img src="https://img.icons8.com/fluency/20/document.png" width="18"/> Published **4 IEEE/Scopus Research Papers**
+
+- <img src="https://img.icons8.com/fluency/20/idea.png" width="18"/> Patent Filed: **AI Powered API Monitoring and Anomaly Detection**
+
+- <img src="https://img.icons8.com/fluency/20/workflow.png" width="18"/> Currently exploring **Agentic AI Systems & Multi-Agent Workflows**
 
 ---
 
