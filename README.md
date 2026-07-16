@@ -12,7 +12,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/about.png"/> About Me
+## <img src="https://img.icons8.com/fluency/24/about.png" width="22"/> About Me
 
 - 🎓 Final Year Computer Engineering student at **VIT Pune**
 - 🤖 Interested in **Artificial Intelligence, LLMs, NLP, RAG & Full Stack Development**
