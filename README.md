@@ -116,13 +116,21 @@ Leading technical initiatives, workshops, hackathons, and community events while
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/link.png"/> Connect With Me
+## <img src="https://img.icons8.com/fluency/24/share.png" width="22"/> Connect With Me
 
-<p align="left">
-<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="YOUR_GITHUB"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-<a href="mailto:itsvaibhavpujari@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="45"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.icons8.com/fluency/48/domain.png" height="45"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-pujari-604505295/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Vaibhavv56" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  <a href="mailto:itsvaibhavpujari@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email"/>
+  </a>
+  <a href="https://vaibhavvpujari.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png" height="45" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
