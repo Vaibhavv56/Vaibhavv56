@@ -33,39 +33,6 @@ Beyond development, I have a keen interest in research and emerging technologies
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/rocket.png" width="22"/> Featured Projects
-
-### Last Mile Delivery Tracker
-**React.js • Node.js • PostgreSQL • Prisma • Socket.IO**
-
-- Complete logistics management platform
-- Real-time shipment tracking
-- Interactive admin dashboard
-- Geoapify + Spatial Routing Engine
-
----
-
-### Niti-Nidhi
-**React Native • Django • FastAPI • LangChain • Gemini • Twilio**
-
-AI-powered governance platform with:
-
-- Smart IVR
-- Voice Assistant
-- Multilingual Chatbot
-- IIT Bombay Techfest'25 Finalist
-
----
-
-### Sofiya Properties
-
-**Flutter • Firebase**
-
-- Published on Google Play
-- 100+ Downloads
-- Cross-platform real estate application
-
----
 
 
 ## <img src="https://img.icons8.com/fluency/24/maintenance.png" width="22"/> Tech Stack
@@ -106,22 +73,6 @@ AI-powered governance platform with:
 - NLP
 - LLMs
 
----
-## <img src="https://img.icons8.com/fluency/24/prize.png" width="22"/> Achievements
-
-- <img src="https://img.icons8.com/fluency/20/medal2.png" width="18"/> First Runner-Up — **Hacksphere Hackathon** (500+ Teams)
-
-- <img src="https://img.icons8.com/fluency/20/trophy.png" width="18"/> **IIT Bombay Aarohan Hackathon** Finalist (2024 & 2025)
-
-- <img src="https://img.icons8.com/fluency/20/document.png" width="18"/> Published **4 IEEE/Scopus Research Papers**
-
-- <img src="https://img.icons8.com/fluency/20/idea.png" width="18"/> Filed a Patent on **"AI Powered API Monitoring and Anomaly Detection"**
-
-- <img src="https://img.icons8.com/fluency/20/cloud.png" width="18"/> **AWS Certified Cloud Technology Consultant**
-
-- <img src="https://img.icons8.com/fluency/20/source-code.png" width="18"/> Solved **800+ Data Structures & Algorithms** problems across LeetCode, GeeksforGeeks, and CodeChef
-
----
 
 ## <img src="https://img.icons8.com/fluency/24/conference-call.png" width="22"/> Leadership
 
