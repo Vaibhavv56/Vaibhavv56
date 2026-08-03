@@ -43,16 +43,6 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,nginx,linux" />
 </p>
 
-### AI / ML
-
-- LangChain
-- TensorFlow
-- Scikit-Learn
-- YOLO
-- Ollama
-- RAG
-- NLP
-- LLMs
 
 
 ## <img src="https://img.icons8.com/fluency/24/share.png" width="22"/> Connect With Me
