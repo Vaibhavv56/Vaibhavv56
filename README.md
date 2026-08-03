@@ -53,14 +53,6 @@ Beyond development, I have a keen interest in research and emerging technologies
 - LLMs
 
 
-## <img src="https://img.icons8.com/fluency/24/conference-call.png" width="22"/> Leadership
-
-**Chairperson — IEEE SB VIT Pune**
-
-Leading technical initiatives, workshops, hackathons, and community events while promoting innovation and professional development.
-
----
-
 ## <img src="https://img.icons8.com/fluency/24/share.png" width="22"/> Connect With Me
 
 <p align="center">
