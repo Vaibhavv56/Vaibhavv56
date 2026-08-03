@@ -4,15 +4,17 @@
 
 <h1 align="center">Hi, I'm Vaibhav Pujari</h1>
 <h3 align="center">AI Engineer | Full-Stack Developer | Computer Engineering @ VIT Pune</h3>
-
 <p align="center">
   Hello! I'm a Computer Engineering student and technology enthusiast with a strong passion for problem-solving and software development. I enjoy transforming ideas into practical solutions through clean, efficient, and scalable code.
-
-My interests span across full-stack development, system design, and building applications that create real-world impact. I constantly seek opportunities to learn new technologies, take on challenging projects, and improve my technical expertise through hands-on experience.
-
-Beyond development, I have a keen interest in research and emerging technologies, including Artificial Intelligence, and I enjoy exploring how technology can be used to solve complex problems and drive innovation
 </p>
 
+<p align="center">
+  My interests span across full-stack development, system design, and building applications that create real-world impact. I constantly seek opportunities to learn new technologies, take on challenging projects, and improve my technical expertise through hands-on experience.
+</p>
+
+<p align="center">
+  Beyond development, I have a keen interest in research and emerging technologies, including Artificial Intelligence. I enjoy exploring how technology can be used to solve complex problems and drive innovation.
+</p>
 
 ## <img src="https://img.icons8.com/fluency/24/maintenance.png" width="22"/> Tech Stack
 
